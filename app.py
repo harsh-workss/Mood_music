@@ -5,8 +5,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 # Set up the Spofity Credentials
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id="129fcb6e799040f880e9a4d5129b6561",
-    client_secret="bac93bb269ae4218b6829ef94a3d1839"
+    client_id="API_ID",
+    client_secret="API_SECRET"
 ))
 
 # Mood Keywords
