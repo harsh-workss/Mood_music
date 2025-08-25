@@ -7,8 +7,8 @@ import random
 
 # Set up Spotify Credentials
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id="129fcb6e799040f880e9a4d5129b6561",
-    client_secret="bac93bb269ae4218b6829ef94a3d1839"
+    client_id=" ",
+    client_secret=" "
 ))
 
 # Load the model
